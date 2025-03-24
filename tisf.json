@@ -1,0 +1,1 @@
+{"name":"MyApp","slug":"my-app","repo":"tea-is-fantastic/myapp","features":{"tailwind":{"name":"MyApp"}},"modules":{"root":{"cover":"require('@/assets/images/cover.png')","logo":"require('@/assets/images/logo.png')","tagline1":"A tasks marketplace for","tagline2":"gigs, services and jobs","onboarding":true}}}
